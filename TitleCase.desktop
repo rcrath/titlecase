@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=gnome-panel-launcher
+Name[en_US]=TitleCase
+Exec=/home/rich/bin/titlecase/ttl.sh
+Name=TitleCase
+Icon=/usr/share/icons/gnome/48x48/apps/gnome-settings-font.png
